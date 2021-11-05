@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidExam</string>
+
+    <!--    1 Screen  -->
+    <string name="login_button">Вход</string>
+    <string name="password_hint">Пароль</string>
+
+    <!--    2 Screen  -->
+    <string name="logout_button">Выход</string>
+
+</resources>
